@@ -1,2 +1,0 @@
-# LABORATORIO-1
-Codigo 
